@@ -1,6 +1,6 @@
 # GiftApp
 
-La sección contiene la primera aplicación real de Angular, este es un breve listado de los temas fundamentales:
+Contiene la primera aplicación real de Angular, este es un breve listado de los temas fundamentales:
 
 1. Modularización de la aplicación
 2. Estructura de la aplicación de media a gran escala
