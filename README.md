@@ -1,5 +1,19 @@
 # GiftApp
 
+La sección contiene la primera aplicación real de Angular, este es un breve listado de los temas fundamentales:
+
+1. Modularización de la aplicación
+2. Estructura de la aplicación de media a gran escala
+3. Componentes
+4. ViewChild
+5. Servicios
+6. Historial de búsquedas
+7. Uso de Api Keys
+8. LocalStorage
+9. Peticiones HTTP
+10. Animaciones mediante css
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.8.
 
 ## Development server
